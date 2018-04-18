@@ -1,0 +1,12 @@
+#happyoung {
+    height: 150px;
+    opacity: 0.5;
+}    
+    
+#story {
+    color: rgba(255, 153, 0, 1);
+    font-size: 50px;
+    height: 35vh;
+    padding-top: 50px;
+    text-align: center;
+}   

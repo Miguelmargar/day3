@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(194, 214, 214);
+    color: rgb(102, 0, 102);
+}
+
+#logo {
+    font-family: 'Black Han Sans', sans-serif;
+}
+
+.list { 
+    font-size: 25px;
+    color: rgb(102, 0, 102);
+}
+
+#moto {
+    padding-top:35px;
+}
+
+#reviews { 
+    padding-left: 40px;
+}
+
+.indie {
+    font-family: 'Indie Flower', cursive;
+}
+
+.navbar-default {
+    background-color: rgb(194, 214, 214);
+}
