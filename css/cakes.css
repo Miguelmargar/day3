@@ -6,10 +6,12 @@ body {
 #logo {
     font-family: 'Black Han Sans', sans-serif;
     font-size: 40px;
+    border-right: 1px solid rgb(102, 0, 102);
 }
 
 .list { 
     font-size: 25px;
+    font-weight: bold;
     color: rgb(102, 0, 102);
 }
 
@@ -19,10 +21,12 @@ body {
 
 img {
     border: 2px solid rgb(102, 0, 102);
+    margin-top: 5px;
 }
 
 #reviews { 
     padding-left: 40px;
+    text-align: center;
 }
 
 .indie {
@@ -32,4 +36,37 @@ img {
 
 .navbar-default {
     background-color: rgb(194, 214, 214);
+}
+
+.copy {
+    font-size: 20px;
+}
+
+.fa {
+    text-decoration:none;
+    padding:5px;
+    margin:1px;
+    text-align:right;
+    
+}
+
+.fa:hover {
+    opacity:0.6;
+}
+
+.fa-twitter {
+    background-color:#55ACEE;
+    color:white;
+}
+
+.fa-facebook {
+    background-color:#3B5998;
+    color:white;
+    padding-right:8.5px;
+    padding-left:8.5px;
+}
+
+.fa-linkedin {
+    background-color:#007bb5;
+    color:white;
 }
