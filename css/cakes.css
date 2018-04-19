@@ -5,6 +5,7 @@ body {
 
 #logo {
     font-family: 'Black Han Sans', sans-serif;
+    font-size: 40px;
 }
 
 .list { 
@@ -16,12 +17,17 @@ body {
     padding-top:35px;
 }
 
+img {
+    border: 2px solid rgb(102, 0, 102);
+}
+
 #reviews { 
     padding-left: 40px;
 }
 
 .indie {
     font-family: 'Indie Flower', cursive;
+    font-size: 20px;
 }
 
 .navbar-default {
